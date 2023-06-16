@@ -1,9 +1,7 @@
 def main():
+    print('Hello World')
+    print('CS7: Introduction to Computer Programming')
 
-    ##############################
-    # make your code below
-    # print('Hello World')
-    ##############################
 
 
 if __name__ == '__main__':
